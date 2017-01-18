@@ -1,0 +1,32 @@
+.text-center {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.container {
+  width: 650px;
+  margin: auto;
+}
+
+input[type='text']{
+  padding: 4px;
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  border: #ccc solid 1px;
+}
+
+form div {
+  margin-bottom: 15px;
+  line-height: 2.2em;
+}
